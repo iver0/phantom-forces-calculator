@@ -1,0 +1,22 @@
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\bin\Release\net5.0-windows\Phantom Forces Calculator.exe
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\bin\Release\net5.0-windows\Phantom Forces Calculator.deps.json
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\bin\Release\net5.0-windows\Phantom Forces Calculator.runtimeconfig.json
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\bin\Release\net5.0-windows\Phantom Forces Calculator.runtimeconfig.dev.json
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\bin\Release\net5.0-windows\Phantom Forces Calculator.dll
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\bin\Release\net5.0-windows\ref\Phantom Forces Calculator.dll
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\bin\Release\net5.0-windows\Phantom Forces Calculator.pdb
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\obj\Release\net5.0-windows\Phantom Forces Calculator.csproj.AssemblyReference.cache
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\obj\Release\net5.0-windows\MainWindow.g.cs
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\obj\Release\net5.0-windows\App.g.cs
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\obj\Release\net5.0-windows\Phantom Forces Calculator_MarkupCompile.cache
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\obj\Release\net5.0-windows\Phantom Forces Calculator_MarkupCompile.lref
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\obj\Release\net5.0-windows\MainWindow.baml
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\obj\Release\net5.0-windows\Phantom Forces Calculator.g.resources
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\obj\Release\net5.0-windows\Phantom Forces Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\obj\Release\net5.0-windows\Phantom Forces Calculator.AssemblyInfoInputs.cache
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\obj\Release\net5.0-windows\Phantom Forces Calculator.AssemblyInfo.cs
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\obj\Release\net5.0-windows\Phantom Forces Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\obj\Release\net5.0-windows\Phantom Forces Calculator.dll
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\obj\Release\net5.0-windows\ref\Phantom Forces Calculator.dll
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\obj\Release\net5.0-windows\Phantom Forces Calculator.pdb
+C:\Users\jerma\Desktop\Projects\Phantom Forces Calculator\obj\Release\net5.0-windows\Phantom Forces Calculator.genruntimeconfig.cache
